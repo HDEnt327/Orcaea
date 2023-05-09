@@ -1,0 +1,36 @@
+{
+    "scores": [
+        {
+            "name": "example123",
+            "score": 1000000,
+            "diff": "Future",
+            "ptt": 11.2,
+            "songid": "exmaple123",
+            "const": 10.5
+        },
+        {
+            "name": "Last Celebration",
+            "score": 99401330,
+            "diff": "Future",
+            "ptt": 12.5,
+            "songid": "lastcelebration",
+            "const": 10.5
+        },
+        {
+            "name": "Lost Emotion feat. nomico",
+            "score": 10001123,
+            "diff": "Future",
+            "ptt": 11.3,
+            "songid": "lostemotion",
+            "const": 9.3
+        },
+        {
+            "name": "Last Celebration",
+            "score": 9940330,
+            "diff": "Future",
+            "ptt": 12.20165,
+            "songid": "lastcelebration",
+            "const": 10.5
+        }
+    ]
+}
