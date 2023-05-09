@@ -17,8 +17,6 @@ tracemalloc.start()
 # TODO: Take in manual data when OCR fails
 # TODO: Add more screen position and ratios
 # TODO: Fix error outputting
-# TODO: Pyinstaller windows EXE tetss
-# TODO: requirements.txt generation
 
 window = tk.Tk()
 window.title('Orcaea')
