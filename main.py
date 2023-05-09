@@ -9,6 +9,17 @@ import tracemalloc
 
 tracemalloc.start()
 
+# CODE WISE TODO: Organize with classes
+
+# TODO: Organize interface, add table view of play data
+# TODO: Support multi-profile/users
+# TODO: Output as image (b30)
+# TODO: Take in manual data when OCR fails
+# TODO: Add more screen position and ratios
+# TODO: Fix error outputting
+# TODO: Pyinstaller windows EXE tetss
+# TODO: requirements.txt generation
+
 window = tk.Tk()
 window.title('Orcaea')
 window.geometry('400x300')
